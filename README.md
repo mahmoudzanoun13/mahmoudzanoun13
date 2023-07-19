@@ -2,7 +2,7 @@
 
 **`A self-learner (Developer/Designer)`**
 
-I'm intermediate Front End Web Developer. Possess strong leadership and communication skills with fluency in Arabic and English. I'm a problem solver, hard worker, and passionate about learning the latest technologies. I'm seeking to create web apps that serve millions of people with awesome UI/UX and responsive apps to help in their life and make them more efficient and easier.
+I'm Frontend Web Developer. Possess strong leadership and communication skills with fluency in Arabic and English. I'm a problem solver, hard worker, and passionate about learning the latest technologies. I'm seeking to create web apps that serve millions of people with awesome UI/UX and responsive apps to help in their life and make them more efficient and easier.
 
    <p align="left"> 
       <a href="https://github.com/mahmoudzanoun13?tab=followers">

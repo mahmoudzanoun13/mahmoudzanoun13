@@ -2,7 +2,7 @@
 
 # Mahmoud Zanoun
 
-### Senior Frontend Developer · React · Next.js
+### Frontend Developer · React · Next.js · TypeScript
 
 **Architecting digital excellence with precision 3+ years building scalable, high-performance web applications.**
 
@@ -25,33 +25,76 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Frontend Specialist** with 3+ years of experience crafting scalable, high-performance web applications. I specialize in **React** and **Next.js**, and I actively integrate AI tools to push the boundaries of modern user interfaces.
+I'm a **Frontend Specialist** with 3+ years of experience crafting scalable, high-performance web applications. I specialize in **React**, **Next.js** and **TypeScript**, and I actively integrate AI tools to push the boundaries of modern user interfaces.
 
-Strong communicator with fluency in **Arabic and English** I collaborate effectively across cross-functional teams (remote & on-site), contribute to code reviews, mentoring, and Agile workflows.
+My experience spans enterprise platforms, talent management systems,
+educational products, B2B applications, and real-time web experiences.
+
+I focus on **frontend architecture, reusable component systems, state management, performance optimization, testing, internationalization, and RTL interfaces**.
+
+I also use modern AI-assisted development workflows to improve productivity, code quality, and delivery.
+
+I work comfortably across **cross-functional teams**, collaborating with
+designers, backend engineers, and product teams in remote and on-site environments.
 
 > _"Precision in architecture. Excellence in execution."_
 
 ---
 
-## 📊 Stats
+## 🚀 Featured Projects
 
-<div align="center">
+### 💬 Chatting App - Solo Technical Project
+**Next.js · TypeScript · Socket.IO · PostgreSQL · Prisma**
 
-|  Experience  | Projects Delivered |   Code Quality   |  Tech Stack   |
-| :----------: | :----------------: | :--------------: | :-----------: |
-| **3+ Years** |  **8+ Projects**   | **95% Accuracy** | **37+ Tools** |
+Real-time chat application featuring authentication, online presence,
+unread badges, and infinite-scroll chat history.
 
-</div>
+### 🎓 Science Toonz
+**React.js · MUI · Jotai · TanStack Query**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoudzanoun13&theme=tokyonight" height="185" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoudzanoun13&theme=tokyonight" height="185" alt="Top Languages" />
-</p>
+Interactive educational platform with OpenRouter-powered content generation and structured learning materials.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mahmoudzanoun13&theme=tokyonight&border_radius=10&hide_border=true&background=0d1117&ring=6366f1&fire=10b981&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</p>
+### 👥 Adepti
+**React.js · Redux · TanStack Query · MUI**
+
+Enterprise talent management platform with filtering, search, matching,
+and bilingual English/Dutch support.
+
+### 🏢 Tahayia
+**Next.js · Tailwind CSS · Zustand · TanStack Query**
+
+B2B marketplace connecting SMEs with certified accountants, including
+English/Arabic localization and RTL support.
+
+---
+
+## 🚀 What I Build
+
+- ⚡ **Scalable SPAs & SSR apps** with React & Next.js (App Router)
+- 🎨 **Pixel-perfect UIs** with Tailwind CSS, Shadcn/ui, Framer Motion animations
+- 🔄 **Real-time features** with Socket.io & WebSockets
+- 🧩 **State management** across Redux, RTK Query, Zustand, TanStack Query, Nuqs
+- 🧪 **Testing suites** with Jest, Vitest, Playwright, Storybook
+- 🌍 **Internationalized applications** with English/Arabic and RTL support
+- 🤖 **AI-assisted development workflows** using modern AI tooling
+
+---
+
+## 💼 Experience
+
+**Frontend Developer** - _Crazy Dolphin Diving Center_ `Jul 2026 – Sep 2026 · Hurghada, Egypt · Freelance / Remote`
+
+> Maintain and develop features for a production web platform. Implement UI improvements, bug fixes, and ongoing frontend enhancements. Work with and maintain a **legacy jQuery codebase** in a production environment.
+
+**Frontend Developer** - _GenTech_ `May 2023 – Jun 2026 · Cairo, Egypt · Full-time / Remote`
+
+> Led frontend development for **4 production applications** from architecture through deployment and contributed to **4 additional projects** across talent management, accounting, education, restaurant management, fitness, and B2B ERP-integrated systems. Designed and maintained **scalable, highly componentized frontend systems** using React, TypeScript, MUI, Tailwind CSS, and Shadcn/ui, promoting consistency and reuse across applications. Architected multilingual applications supporting **English, Dutch, and Arabic**, including dynamic content handling and RTL interfaces. Implemented state management solutions with **Redux, Zustand, and Jotai**, selecting patterns based on application requirements and complexity. Improved application performance through frontend optimization, resulting in **faster load times and improved user experience**. Established high-quality testing practices using **Jest, Vitest, and Playwright**, covering unit, integration, and end-to-end scenarios with a TDD-oriented approach. Configured **Husky, Commitlint, and lint-staged** to automate formatting, linting, builds, and tests before commits and maintain consistent engineering standards. Leveraged **AI-powered development workflows**, including Figma MCP for design-to-code workflows and Kubb for automated type-safe API client generation. Demonstrated strong **cross-functional collaboration** by working closely with **UI/UX designers, backend engineers, and product teams** to translate product requirements and designs into maintainable frontend solutions.
+
+**Frontend Instructor** - _Creativa Innovation Hub | Shebin El-Kom_ `Apr 2023 – May 2023 · Menofia, Egypt · Part-time / On-Site`
+
+> Taught React.js fundamentals to beginners from non-CS backgrounds. Guided a graduation project from planning through delivery.
+
+**CS50 Harvard** → **Zero To Mastery Frontend Track** → **3+ Years Production Experience**
 
 ---
 
@@ -124,33 +167,25 @@ Strong communicator with fluency in **Arabic and English** I collaborate effecti
 
 ---
 
-## 💼 Experience
+## 📊 Stats
 
-**Frontend Developer** - _Crazy Dolphin Diving Center_ `Jul 2026 – Present · Hurghada, Egypt · Freelance / Remote`
+<div align="center">
 
-> Maintaining and developing features for a production entertainment web platform. UI improvements, bug fixes, and working with legacy jQuery codebases.
+|  Experience  | Projects Delivered |   Code Quality   |  Tech Stack   |
+| :----------: | :----------------: | :--------------: | :-----------: |
+| **3+ Years** |  **15+ Projects**   | **95% Accuracy** | **37+ Tools** |
 
-**Frontend Developer** - _GenTech_ `May 2023 – Jun 2026 · Cairo, Egypt · Full-time / Remote`
+</div>
 
-> Led frontend development lifecycle for 4 major production applications. Architected multi-language support (EN/AR with RTL), achieved high code quality with Jest, Vitest, and Playwright, and collaborated closely with UI/UX and backend teams.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoudzanoun13&theme=tokyonight" height="185" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoudzanoun13&theme=tokyonight" height="185" alt="Top Languages" />
+</p>
 
-**Frontend Instructor** - _Creativa Innovation Hub | Shebin El-Kom_ `Apr 2023 – May 2023 · Menofia, Egypt · Part-time / On-Site`
-
-> Taught React.js to beginners from non-CS backgrounds. Led graduation project from planning to delivery.
-
-**CS50 Harvard** → **Zero To Mastery Frontend Track** → **3+ Years Production Experience**
-
----
-
-## 🚀 What I Build
-
-- ⚡ **Scalable SPAs & SSR apps** with React & Next.js (App Router)
-- 🎨 **Pixel-perfect UIs** with Tailwind CSS, Shadcn/ui, Framer Motion animations
-- 🔄 **Real-time features** with Socket.io & WebSockets
-- 🧩 **State management** across Redux, RTK Query, Zustand, TanStack Query, Nuqs
-- 🧪 **Testing suites** with Jest, Vitest, Playwright, Storybook
-- 🌍 **i18n/l10n** with next-intl (English & Arabic - RTL support)
-- 🤖 **AI-integrated UIs** pushing the boundaries of modern frontend
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mahmoudzanoun13&theme=tokyonight&border_radius=10&hide_border=true&background=0d1117&ring=6366f1&fire=10b981&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -161,7 +196,7 @@ I started my coding journey as a self-learner with an unstoppable curiosity abou
 
 From there I dived into **C++** for problem solving, then enrolled in **Zero To Mastery Academy's** Complete Web Developer course to master both frontend and backend. After consulting with senior engineers, I chose to specialize in **Frontend Development** and I haven't looked back.
 
-Today I'm working at the senior level, building enterprise products, mentoring other developers, and always pushing toward the next boundary.
+Today, I work professionally on production frontend applications, focusing on architecture maintainability, performance, testing, and developer experience.
 
 </details>
 
